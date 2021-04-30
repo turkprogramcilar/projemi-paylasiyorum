@@ -1,11 +1,9 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/78164267?s=200&v=4"></p>
 
-<p align="center">
-  <b>Türk Programcılar</b> Discord sunucusu kullanıcıları tarafından geliştirilen birçok farklı dillerde açık kaynaklı github projeleri
-</p>
+<b>Türk Programcılar</b> Discord sunucusu kullanıcıları tarafından geliştirilen birçok farklı dillerde açık kaynaklı github projeleri
 
 
-# diller
+# Diller
 
  - [C](diller/C.md)
  - [C#](diller/C%23.md)
