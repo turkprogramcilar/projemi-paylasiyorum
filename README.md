@@ -7,37 +7,9 @@
 
 # Diller
 
- - [C](diller/C.md)
  - [C#](diller/C%23.md)
- - [C++](diller/C%2B%2B.md)
- - [Clojure](diller/Clojure.md)
- - [Common Lisp](diller/Common_Lisp.md)
- - [Crystal](diller/Crystal.md)
- - [CSS](diller/Css.md)
- - [D](diller/D.md)
- - [Dart](diller/Dart.md)
- - [Elixir](diller/Elixir.md)
- - [Elm](diller/Elm.md)
- - [Emacs Lisp](diller/Emacs_Lisp.md)
- - [Erlang](diller/Erlang.md)
- - [Go](diller/Golang.md)
- - [Haskell](diller/Haskell.md)
- - [Haxe](diller/Haxe.md)
- - [Java](diller/Java.md)
- - [JavaScript](diller/Javascript.md)
- - [Kotlin](diller/Kotlin.md)
- - [Lua](diller/Lua.md)
- - [OCaml](diller/Ocaml.md)
- - [PHP](diller/Php.md)
+ - [Godot](diller/Godot.md)
  - [Python](diller/Python.md)
- - [R](diller/R.md)
- - [Ruby](diller/Ruby.md)
- - [Rust](diller/Rust.md)
- - [Scala](diller/Scala.md)
- - [Shell](diller/Shell.md)
- - [SVG](diller/Svg.md)
- - [Swift](diller/Swift.md)
- - [TypeScript](diller/Typescript.md)
 
 # Projenizi sergilemek için
 
