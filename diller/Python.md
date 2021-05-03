@@ -10,6 +10,9 @@
 
 <br>
 
+## E
+
+[**Ezber**](https://github.com/Umut-Umut/python-Ezber)
 
 ## F
 
@@ -23,3 +26,9 @@
 <p>Bilgisayarınızda resim çizdiğinizi veya bir program yazdığınızı hayal edin. Ayağa kalkmadan saatlerce mücadele ediyorsunuz. Belki bir günde bitiremeyip ertesi gün devam ediyorsunuz. Uzun bir süre sonra işinizi tamamlıyorsunuz. Bunu yaparken çalışmanızın küçük kliplerini çekmek istemez misiniz? İşte o zaman Frame Recorder yardımınıza gelir. Sadece FPS'yi (saniyede kare) girin ve sizin için kaydedecektir!</p>
 <h3>Nasıl kullanılır?</h3>
 <p>Gerekli modülleri pip ile indirin ve kullanmaya başlayın.</p>
+
+## P
+[**Pomodoro Saati**](https://github.com/Umut-Umut/Python-Pomodoro-Saati)
+
+## Y
+[**Youtube Downloader**](https://github.com/Umut-Umut/Python-Youtube-Downloader)
