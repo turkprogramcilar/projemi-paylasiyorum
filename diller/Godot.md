@@ -16,4 +16,4 @@
 
 ## U
 
-[**Uzay oyunu**](https://github.com/Umut-Umut/uzay_oyunu)
+[**Uzay oyunu**](https://github.com/Umut-Umut/Uzay-Oyunu)
