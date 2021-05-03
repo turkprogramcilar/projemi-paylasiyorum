@@ -10,6 +10,7 @@
  - [C#](diller/C%23.md)
  - [Godot](diller/Godot.md)
  - [Python](diller/Python.md)
+ - [QT-C++](diller/QT-C%2B%2B.md)
 
 # Projenizi sergilemek için
 
