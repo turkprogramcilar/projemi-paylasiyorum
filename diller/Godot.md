@@ -29,6 +29,10 @@
 
 [**Uzay oyunu**](https://github.com/Umut-Umut/Uzay-Oyunu)
 
+## Y
+
+[**Yapay Zeka Demo**](https://github.com/Umut-Umut/Godot_yapayzeka_demo)
+
 ## Z
 
 [**Floor Particles Demo**](https://github.com/Umut-Umut/Godot-zemin-denemesi)
