@@ -12,7 +12,7 @@
 
 ## D
 
-[**Drag & Drop Inventory](https://github.com/Umut-Umut/Godot-Drag-Drop-Game-Project)
+[**Drag & Drop Inventory**](https://github.com/Umut-Umut/Godot-Drag-Drop-Game-Project)
 
 ## E
 
